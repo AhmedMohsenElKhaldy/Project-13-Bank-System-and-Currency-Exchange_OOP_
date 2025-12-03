@@ -1,0 +1,16 @@
+# Visual Studio files
+*.vsidx
+*.suo
+*.user
+*.aps
+*.bin
+*.obj
+*.pdb
+*.idb
+
+# Build folders
+[Bb]in/
+[Oo]bj/
+
+# Solution files
+*.vst

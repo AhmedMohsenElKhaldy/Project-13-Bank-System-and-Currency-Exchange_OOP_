@@ -1,0 +1,47 @@
+﻿  Main Bank System.cpp
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(43,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(47,22): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(56,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(80,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(100,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(368,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(397,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(462,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsString.h(468,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsDate.h(510,17): warning C4552: '*': result of expression not used
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsInputValidate.h(155,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsClientBalancesScreen.h(59,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsAddNewUserScreen.h(118,11): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsCurrencise.h(27,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Main%20Bank%20System.cpp')
+  
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsBankClient.h(337,1): warning C4715: 'ClsBankClient::Save': not all control paths return a value
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsBankClient.h(400,1): warning C4715: 'ClsBankClient::Wihtdraw': not all control paths return a value
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsUser.h(315,1): warning C4715: 'ClsUser::Save': not all control paths return a value
+  ConsoleApplication5.vcxproj -> C:\Users\ahmed\source\repos\ConsoleApplication5\x64\Debug\Bank System [OOP].exe
