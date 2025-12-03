@@ -136,7 +136,8 @@
     <ClInclude Include="ClsBankClient.h" />
     <ClInclude Include="ClsClientBalancesScreen.h" />
     <ClInclude Include="ClsClientListScreen.h" />
-    <ClInclude Include="ClsCurrencise.h" />
+    <ClInclude Include="ClsCurrenciesListScreen.h" />
+    <ClInclude Include="ClsCurrency.h" />
     <ClInclude Include="ClsCurrencyMainScreen.h" />
     <ClInclude Include="ClsDate.h" />
     <ClInclude Include="CLsDeleteClinetScreen.h" />

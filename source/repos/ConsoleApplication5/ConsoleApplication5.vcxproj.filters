@@ -110,10 +110,13 @@
     <ClInclude Include="ClsUtil.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="ClsCurrencise.h">
+    <ClInclude Include="ClsCurrency.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ClsCurrencyMainScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ClsCurrenciesListScreen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

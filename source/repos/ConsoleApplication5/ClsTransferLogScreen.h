@@ -14,7 +14,7 @@ class ClsTransferLogScreen:protected ClsScreen
 
 	 {
 	
-		 cout << setw(8) << left << "" << "| " << setw(18) << left << C.Date;
+		 cout << setw(8) << left << "" << "| " << setw(20) << left << C.Date;
 		 cout << "| " << left << setw(10) << C.AccFrom;
 		 cout << "| " << left << setw(10) << C.AccTo;
 		 cout << "| " << left << setw(12) << C.Amount;
@@ -51,7 +51,7 @@ public:
 	
 	cout << setw(8) << left << "" << "\n\t_______________________________________________________";
 	cout << "_________________________________________\n";
-	cout << setw(8) << left << "" << "| " << left << setw(18) << "Time/Date";
+	cout << setw(8) << left << "" << "| " << left << setw(20) << "Time/Date";
 	cout << "| " << left << setw(10)  << "F.Account";
 	cout << "| " << left << setw(10)  << "T.Account";
 	cout << "| " << left << setw(12) << "Amount";

@@ -3,32 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsCurrenciesListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrencyMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsCurrencyMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Main Bank System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:Main Bank System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsTransactionScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrencise.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsCurrencise.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsTransferScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsMainScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:Global.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsLoginScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,18 +75,6 @@
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsUsersLoginData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Main Bank System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:Main Bank System.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsString.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsTransferLogScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsUser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -63,20 +83,12 @@
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsAddNewUserScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUsersListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsUsersListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsWithdrawScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsManageUsersScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -103,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:CLsDeleteClinetScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsClientListScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsClientBalancesScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -117,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsAddNewClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|solutionrelative:ClsDate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3A96177-DA5C-48D1-97D3-592D61927ACD}|ConsoleApplication5.vcxproj|C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -142,11 +146,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "Global.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Global.h",
               "RelativeDocumentMoniker": "Global.h",
@@ -166,14 +170,44 @@
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsManageUsersScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsManageUsersScreen.h",
+              "RelativeDocumentMoniker": "ClsManageUsersScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsManageUsersScreen.h",
+              "RelativeToolTip": "ClsManageUsersScreen.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-12T14:05:33.723Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ClsCurrenciesListScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrenciesListScreen.h",
+              "RelativeDocumentMoniker": "ClsCurrenciesListScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrenciesListScreen.h",
+              "RelativeToolTip": "ClsCurrenciesListScreen.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-03T17:06:03.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ClsCurrencyMainScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrencyMainScreen.h",
               "RelativeDocumentMoniker": "ClsCurrencyMainScreen.h",
               "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrencyMainScreen.h",
               "RelativeToolTip": "ClsCurrencyMainScreen.h",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAqwE8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-12-01T08:37:36.96Z",
               "EditorCaption": ""
@@ -181,6 +215,110 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Main Bank System.cpp",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Main Bank System.cpp",
+              "RelativeDocumentMoniker": "Main Bank System.cpp",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Main Bank System.cpp",
+              "RelativeToolTip": "Main Bank System.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-31T14:27:10.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClsMainScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsMainScreen.h",
+              "RelativeDocumentMoniker": "ClsMainScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsMainScreen.h",
+              "RelativeToolTip": "ClsMainScreen.h",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v2oAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-07T07:47:13.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClsTransactionScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransactionScreen.h",
+              "RelativeDocumentMoniker": "ClsTransactionScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransactionScreen.h",
+              "RelativeToolTip": "ClsTransactionScreen.h",
+              "ViewState": "AgIAAFsAAAAAAAAAAAD4v2UAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-09T08:46:40.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrency.h",
+              "RelativeDocumentMoniker": "ClsCurrency.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrency.h",
+              "RelativeToolTip": "ClsCurrency.h",
+              "ViewState": "AgIAAOAAAAAAAAAAAAD4v/QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-01T05:56:20.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsDate.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDate.h",
+              "RelativeDocumentMoniker": "ClsDate.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDate.h",
+              "RelativeToolTip": "ClsDate.h",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAgwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-01T05:06:37.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClsTransferScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferScreen.h",
+              "RelativeDocumentMoniker": "ClsTransferScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferScreen.h",
+              "RelativeToolTip": "ClsTransferScreen.h",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-25T04:34:04.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClsString.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsString.h",
+              "RelativeDocumentMoniker": "ClsString.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsString.h",
+              "RelativeToolTip": "ClsString.h",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAuwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-01T05:08:06.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClsClientListScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientListScreen.h",
+              "RelativeDocumentMoniker": "ClsClientListScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientListScreen.h",
+              "RelativeToolTip": "ClsClientListScreen.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-08T14:49:17.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ClsScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsScreen.h",
               "RelativeDocumentMoniker": "ClsScreen.h",
@@ -188,63 +326,38 @@
               "RelativeToolTip": "ClsScreen.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-07T07:40:30.533Z"
+              "WhenOpened": "2025-11-07T07:40:30.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClsTransactionScreen.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransactionScreen.h",
-              "RelativeDocumentMoniker": "ClsTransactionScreen.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransactionScreen.h",
-              "RelativeToolTip": "ClsTransactionScreen.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBIAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ClsTransferLogScreen.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferLogScreen.h",
+              "RelativeDocumentMoniker": "ClsTransferLogScreen.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferLogScreen.h",
+              "RelativeToolTip": "ClsTransferLogScreen.h",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-09T08:46:40.038Z"
+              "WhenOpened": "2025-11-27T05:45:09.067Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClsCurrencise.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrencise.h",
-              "RelativeDocumentMoniker": "ClsCurrencise.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsCurrencise.h",
-              "RelativeToolTip": "ClsCurrencise.h",
-              "ViewState": "AgIAAHoAAAAAAAAAAAAswIEAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ClsUtil.h",
+              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUtil.h",
+              "RelativeDocumentMoniker": "ClsUtil.h",
+              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUtil.h",
+              "RelativeToolTip": "ClsUtil.h",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAuwKwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-12-01T05:56:20.063Z"
+              "WhenOpened": "2025-11-27T07:55:36.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClsTransferScreen.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferScreen.h",
-              "RelativeDocumentMoniker": "ClsTransferScreen.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferScreen.h",
-              "RelativeToolTip": "ClsTransferScreen.h",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADUAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-25T04:34:04.765Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClsMainScreen.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsMainScreen.h",
-              "RelativeDocumentMoniker": "ClsMainScreen.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsMainScreen.h",
-              "RelativeToolTip": "ClsMainScreen.h",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-07T07:47:13.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ClsLoginScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsLoginScreen.h",
               "RelativeDocumentMoniker": "ClsLoginScreen.h",
@@ -256,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "ClsInputValidate.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsInputValidate.h",
               "RelativeDocumentMoniker": "ClsInputValidate.h",
@@ -268,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "ClsUsersLoginData.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUsersLoginData.h",
               "RelativeDocumentMoniker": "ClsUsersLoginData.h",
@@ -280,43 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Main Bank System.cpp",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Main Bank System.cpp",
-              "RelativeDocumentMoniker": "Main Bank System.cpp",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\Main Bank System.cpp",
-              "RelativeToolTip": "Main Bank System.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-10-31T14:27:10.368Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ClsString.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsString.h",
-              "RelativeDocumentMoniker": "ClsString.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsString.h",
-              "RelativeToolTip": "ClsString.h",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAuwNgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-01T05:08:06.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ClsTransferLogScreen.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferLogScreen.h",
-              "RelativeDocumentMoniker": "ClsTransferLogScreen.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsTransferLogScreen.h",
-              "RelativeToolTip": "ClsTransferLogScreen.h",
-              "ViewState": "AgIAACUAAAAAAAAAAAAuwCYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-27T05:45:09.067Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "ClsUser.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUser.h",
               "RelativeDocumentMoniker": "ClsUser.h",
@@ -328,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "ClsUsersListScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUsersListScreen.h",
               "RelativeDocumentMoniker": "ClsUsersListScreen.h",
@@ -340,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "ClsAddNewUserScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsAddNewUserScreen.h",
               "RelativeDocumentMoniker": "ClsAddNewUserScreen.h",
@@ -352,19 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClsUtil.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUtil.h",
-              "RelativeDocumentMoniker": "ClsUtil.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUtil.h",
-              "RelativeToolTip": "ClsUtil.h",
-              "ViewState": "AgIAAKUAAAAAAAAAAAAuwKwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-27T07:55:36.344Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "ClsWithdrawScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsWithdrawScreen.h",
               "RelativeDocumentMoniker": "ClsWithdrawScreen.h",
@@ -376,19 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ClsManageUsersScreen.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsManageUsersScreen.h",
-              "RelativeDocumentMoniker": "ClsManageUsersScreen.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsManageUsersScreen.h",
-              "RelativeToolTip": "ClsManageUsersScreen.h",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCoAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-12T14:05:33.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "ClsPerson.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsPerson.h",
               "RelativeDocumentMoniker": "ClsPerson.h",
@@ -400,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ClsUpdateClientScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUpdateClientScreen.h",
               "RelativeDocumentMoniker": "ClsUpdateClientScreen.h",
@@ -412,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ClsUpdateUserScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsUpdateUserScreen.h",
               "RelativeDocumentMoniker": "ClsUpdateUserScreen.h",
@@ -424,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ClsFindclientScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsFindclientScreen.h",
               "RelativeDocumentMoniker": "ClsFindclientScreen.h",
@@ -436,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "ClsDepositScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDepositScreen.h",
               "RelativeDocumentMoniker": "ClsDepositScreen.h",
@@ -448,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "CLsDeleteClinetScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\CLsDeleteClinetScreen.h",
               "RelativeDocumentMoniker": "CLsDeleteClinetScreen.h",
@@ -460,19 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "ClsClientListScreen.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientListScreen.h",
-              "RelativeDocumentMoniker": "ClsClientListScreen.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientListScreen.h",
-              "RelativeToolTip": "ClsClientListScreen.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-08T14:49:17.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ClsClientBalancesScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsClientBalancesScreen.h",
               "RelativeDocumentMoniker": "ClsClientBalancesScreen.h",
@@ -484,7 +525,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ClsBankClient.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsBankClient.h",
               "RelativeDocumentMoniker": "ClsBankClient.h",
@@ -496,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "ClsAddNewClientScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsAddNewClientScreen.h",
               "RelativeDocumentMoniker": "ClsAddNewClientScreen.h",
@@ -508,19 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ClsDate.h",
-              "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDate.h",
-              "RelativeDocumentMoniker": "ClsDate.h",
-              "ToolTip": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDate.h",
-              "RelativeToolTip": "ClsDate.h",
-              "ViewState": "AgIAAI4AAAAAAAAAAAAgwJ8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-01T05:06:37.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "resource.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\resource.h",
               "RelativeDocumentMoniker": "resource.h",
@@ -532,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ClsFindUserScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsFindUserScreen.h",
               "RelativeDocumentMoniker": "ClsFindUserScreen.h",
@@ -544,7 +573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "ClsDeleteUsersScreen.h",
               "DocumentMoniker": "C:\\Users\\ahmed\\source\\repos\\ConsoleApplication5\\ClsDeleteUsersScreen.h",
               "RelativeDocumentMoniker": "ClsDeleteUsersScreen.h",

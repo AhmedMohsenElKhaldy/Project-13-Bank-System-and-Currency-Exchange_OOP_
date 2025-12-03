@@ -38,7 +38,7 @@ C:\Users\ahmed\source\repos\ConsoleApplication5\ClsClientBalancesScreen.h(59,54)
 C:\Users\ahmed\source\repos\ConsoleApplication5\ClsAddNewUserScreen.h(118,11): warning C4129: 'P': unrecognized character escape sequence
   (compiling source file 'Main%20Bank%20System.cpp')
   
-C:\Users\ahmed\source\repos\ConsoleApplication5\ClsCurrencise.h(27,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\ahmed\source\repos\ConsoleApplication5\ClsCurrency.h(27,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Main%20Bank%20System.cpp')
   
 C:\Users\ahmed\source\repos\ConsoleApplication5\ClsBankClient.h(337,1): warning C4715: 'ClsBankClient::Save': not all control paths return a value

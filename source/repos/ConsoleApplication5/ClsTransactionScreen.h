@@ -23,7 +23,7 @@ private:
     };
     static short _ReadTransactionOption()
     {
-        cout << setw(37) << "Choose What Do You Want To Do From 1 To 4\n";
+        cout << setw(37) << "Choose What Do You Want To Do From 1 To 6\n";
 
         short Choose = ClsInputValidate::ReadShortNumberBetween
         (1, 6, "Invalid Number Please Enter Bettwen 1 And 6");
@@ -121,16 +121,16 @@ public:
     }
     system("cls");
 	_DrawScreenHeader("Transaction Screen");
-    cout << setw(37) << left << "" << "===========================================\n";
-    cout << setw(37) << left << "" << "\t\t\tTransaction Menue\n";
-    cout << setw(37) << left << "" << "===========================================\n";
-    cout << setw(37) << left << "" << "\t[1] Deposit.\n";
-    cout << setw(37) << left << "" << "\t[2] WithDraw.\n";
-    cout << setw(37) << left << "" << "\t[3] Total Balances.\n";
-    cout << setw(37) << left << "" << "\t[4] Trnasfer.\n";
-    cout << setw(37) << left << "" << "\t[5] Trnasfer Log.\n";
-    cout << setw(37) << left << "" << "\t[6] Main Menue.\n";
-    cout << setw(37) << left << "" << "===========================================\n";
+    cout << setw(37) << left << "" << " =========================================\n";
+    cout << setw(37) << left << "" << " \t\t  Transaction Menue\n";
+    cout << setw(37) << left << "" << " =========================================\n";
+    cout << setw(37) << left << "" << " \t[1] Deposit.\n";
+    cout << setw(37) << left << "" << " \t[2] WithDraw.\n";
+    cout << setw(37) << left << "" << " \t[3] Total Balances.\n";
+    cout << setw(37) << left << "" << " \t[4] Trnasfer.\n";
+    cout << setw(37) << left << "" << " \t[5] Trnasfer Log.\n";
+    cout << setw(37) << left << "" << " \t[6] Main Menue.\n";
+    cout << setw(37) << left << "" << "=========================================\n";
     
     PerformTransactionMenueScreen((_EnTransactionOption)_ReadTransactionOption());
 }

@@ -3,6 +3,8 @@
 #include<iomanip>
 #include"ClsScreen.h"
 #include"ClsInputValidate.h"
+#include"ClsCurrenciesListScreen.h"
+
 class ClsCurrencyMainMenueScreen:protected ClsScreen
 {
 private:
@@ -29,7 +31,8 @@ private:
  }
  static void _ShowListCurrenciesScreen()
  {
-     cout << "List currency Screen I'm Here\n";
+     ClsCurrenciesListScreen::ShowClientList();
+     //cout << "List currency Screen I'm Here\n";
  }
  static void _ShowFindCurrenciesScreen()
  {

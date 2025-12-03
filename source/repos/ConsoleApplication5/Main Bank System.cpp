@@ -2,7 +2,7 @@
 #include"ClsLoginScreen.h"
 #include"Global.h"
 #include"ClsString.h"
-#include"ClsCurrencise.h"
+//#include"ClsCurrencise.h"
 
 using namespace std;
 
