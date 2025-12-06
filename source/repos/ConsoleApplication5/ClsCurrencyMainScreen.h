@@ -3,7 +3,10 @@
 #include<iomanip>
 #include"ClsScreen.h"
 #include"ClsInputValidate.h"
-#include"ClsCurrenciesListScreen.h"
+#include"clsCurrenciesListScreen.h"
+#include"ClsFindCurrencyScreen.h"
+#include"ClsUpdateCurrencyScreen.h"
+#include"ClsfCrrecnyCalculatorScreen.h"
 
 class ClsCurrencyMainMenueScreen:protected ClsScreen
 {
@@ -31,20 +34,23 @@ private:
  }
  static void _ShowListCurrenciesScreen()
  {
-     ClsCurrenciesListScreen::ShowClientList();
+     clsCurrenciesListScreen::ShowCurrenciesListScreen();
      //cout << "List currency Screen I'm Here\n";
  }
  static void _ShowFindCurrenciesScreen()
  {
-     cout << "Find currenceies Screen I'm Here\n";
+     ClsFindCurrencyScreen::ShowFindScreen();
+     //cout << "Find currenceies Screen I'm Here\n";
  }
  static void _ShowUpdateRatecurrenceiesScreen()
  {
-     cout << "Update Rate currenceies Screen I'm Here\n";
+     ClsUpdateCurrencyScreen::ShowUpdateScreen();
+     //cout << "Update Rate currenceies Screen I'm Here\n";
  }
  static void _ShowCalculatorCurrenceiesScreen()
  {
-     cout << "Calculator Currenceies Screen I'm Here\n";
+     ClsfCrrecnyCalculatorScreen::ShowCurrencyCalculatorScreen();
+     //cout << "Calculator Currenceies Screen I'm Here\n";
  }
  static void _PerformCurrencyMainScreen(_EnCurrency OptrionCurrency)
  {
@@ -104,5 +110,6 @@ static void ShowMainMenueScreen()
  }
 
 };
+
 
 
